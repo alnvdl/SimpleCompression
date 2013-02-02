@@ -3,7 +3,7 @@ SimpleCompression
 
 A simple compression program that uses Huffman coding.
 
-This is the report (in Portuguse) that was part of the project.
+This was a college project (Data Structures II). The report that was bundled together with the code follows below (in Portuguese).
 
 # Como utilizar
 Para compilar o código, rode o seguinte comando (em sistemas Unix):
